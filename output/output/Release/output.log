@@ -1,0 +1,12 @@
+﻿  Source.cpp
+F:\int 22\hand made\output\output\Source.cpp(423): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\int 22\hand made\output\output\Source.cpp(428): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\int 22\hand made\output\output\Source.cpp(433): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\int 22\hand made\output\output\Source.cpp(437): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\int 22\hand made\output\output\Source.cpp(444): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 176 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  output.vcxproj -> F:\int 22\hand made\output\Release\output.exe
